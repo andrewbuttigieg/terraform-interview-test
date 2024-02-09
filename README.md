@@ -1,4 +1,4 @@
-# terraform-interview-task
+# Terraform interview task
 
 Please, create a separate module for each of the resources below (VPC, EC2, S3, Route53)
 1. Clone this repository and give us a link to it when you are complete 
